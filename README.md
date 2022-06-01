@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clemebowe
+- 👋 Hi, I’m Clement
 - 👀 I’m interested in repo explorations 
 - 🌱 I’m currently learning too many things
 - 💞️ I’m looking to collaborate on projects of all kinds
